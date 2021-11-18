@@ -13,7 +13,7 @@
         "title" : "Hilux Revo",
         "download_link" : "https://fileservice.gtainside.com/downloads/ftpl/1593281504_2019 Toyota Hilux Revo.rar",
         "photo_link" : "https://drive.google.com/file/d/1-cOHaywtCNKfac1TlOzmUr4rQQfTjBBP/view?usp=drivesdk",
-        "file_size" : "8.142 MB";
+        "file_size" : "8.142 MB"
     }  
 
 ]
