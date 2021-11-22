@@ -22,6 +22,14 @@
         "download_link" : "https://fileservice.gtainside.com/downloads/ftpl/1593281504_2019 Toyota Hilux Revo.rar",
         "photo_link" : "https://www.gtainside.com/downloads/images/1333271059_gallery76.jpg",
         "file_size" : "5.975 MB"
+    },
+    
+      {
+        "author" : "jonny-b",
+        "title" : "Honda CRV 1997",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftpd/1204145847_Honda_CRV_97.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/download/Honda_CRV_97.JPG",
+        "file_size" : "3.152 MB"
     }
     
 ]
