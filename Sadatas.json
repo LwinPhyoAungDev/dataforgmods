@@ -127,13 +127,67 @@
     },
     
     {
-        "author" : "jackergarden",
-        "title" : "BMW E36 M3 Coupe Shift",
-        "download_link" : "https://fileservice.gtainside.com/downloads/ftpl/1618507047_BMW_E36_M3_Coupe_Shift.zip
+        "author" : "By JB and Brasillow GTA",
+        "title" : "Honda Twister 2009",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftpl/1634545140_HONDA TWISTER 2009.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/picr/2021-10/thb_1634545140_11.jpg",
+        "file_size" : "35.954 KB",
+        "author_link" : "https://brasillowgta.blogspot.com/"
+    },
+    
+    {
+        "author" : "BJN GAMER",
+        "title" : "Honda Twister 250 2022",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftpl/1636821314_HONDA TWISTER 2022 PC.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/picr/2021-11/thb_1636821314_5.jpg",
+        "file_size" : "37.955 MB",
+        "author_link" : "https://www.youtube.com/watch?v=Ru_ihvfz0Mg"
+    },
+    
+    {
+        "author" : "a-christ, converted by LeeDFXP",
+        "title" : "Kaneda's Bike (Akira)",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftp/1136117041_Kanedas_Bike_LeeDFXP.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/download2/Kanedas_Bike_LeeDFXP_thumb.jpg",
+        "file_size" : "0.524 MB",
+        "author_link" : "http://gta-sa-modding.hopto.org/"
+    },
+    
+    {
+        "author" : "50t, converted by Caipi",
+        "title" : "Harley-Davidson Sholvehead Chopper v2",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftp/1129302667_HDShovelheadChopperv2.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/download2/HDShovelheadChopperv2.jpg",
+        "file_size" : "0.703 MB",
+        "author_link" : "fab111@gmx.de"
+    },
+    
+    {
+        "author" : "Dazla, converted by Ecco95",
+        "title" : "Honda Goldwings v1.1a",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftp/1126359390_hondagoldwingSA.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/download2/gallery176.jpg",
+        "file_size" : "0.188 MB",
+        "author_link" : "http://www.gta-vcpd-team.euro.st/"
+    },
+    
+    {
+        "author" : "Lumius & szkgsxr1000, converted by supermasi",
+        "title" : "2003 Suzuki GSXR1000",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftp/1122809370_gsxr1000sfbysm.rar
 ",
-        "photo_link" : "https://www.gtainside.com/downloads/picr/2021-04/thb_1618507047_mta-screen_2021-04-13_22-59-25.jpg",
-        "file_size" : "3.181 MB",
-        "author_link" : "https://pskmtaarg.blogspot.com/"
+        "photo_link" : "https://www.gtainside.com/downloads/download2/gsxr1000sfbysm.jpg",
+        "file_size" : "2.356 MB",
+        "author_link" : "supermasi@gmx.de"
+    },
+    
+    {
+        "author" : "Glenn Wyatt",
+        "title" : "Yamaha R1",
+        "download_link" : "https://fileservice.gtainside.com/downloads/ftp/1121196033_2005_Yamaha_R1_beta.rar",
+        "photo_link" : "https://www.gtainside.com/downloads/download2/pcj600.jpg",
+        "file_size" : "1.095 MB",
+        "author_link" : "szkgsxr1000@msn.com"
     }
     
 ]
